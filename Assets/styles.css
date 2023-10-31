@@ -1,7 +1,7 @@
 /* Style.css */
 
 * { 
-	font-family: Georgia, Times, "Times New Roman", serif; 
+	font-family: Comic Sans MS, Comic Sans, cursive;
 } 
 
 .quiz, 
@@ -11,7 +11,7 @@
 } 
 
 #top { 
-	color: green; 
+	color: purple; 
 } 
 
 .containerNew { 
@@ -50,14 +50,14 @@ button {
 	margin: 10px; 
 	cursor: pointer; 
 	color: #fff; 
-	background-color: #52865a; 
+	background-color: purple; 
 	border-radius: 5px; 
 	border: 0; 
 	padding: 20px; 
 } 
 
 button:hover { 
-	background-color: #2a8d12; 
+	background-color: plum;; 
 } 
 
 .options button { 

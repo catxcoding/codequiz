@@ -20,7 +20,7 @@ let questions = [
 			"<ul>", 
 			"<s>", 
 		], 
-		answer: "ul", 
+		answer: "li", 
 	}, 
 
 	{ 
