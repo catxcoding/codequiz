@@ -2,25 +2,25 @@
 
 let questions = [ 
 	{ 
-		prompt: `What tag is used to specify a section of text that has been quoted from another source?`, 
+		prompt: 'What kind of statement is used to execute actions based on a trigger or condition?',
 		options: [ 
-			"<strong>", 
-			"<em>", 
-			"<a>", 
-			"<blockquote>", 
+			"Boolean Variable", 
+			"Regular Expression", 
+			"Conditional Statement", 
+			"Fired Event", 
 		], 
-		answer: "<blockquote>", 
+		answer: "Conditional Statement", 
 	}, 
 
 	{ 
-		prompt: `What tag is used to define a list item (in a bulleted list)?`, 
+		prompt: `This is what you call the guide that defines coding conventions for all projects.`, 
 		options: [ 
-			"<li>", 
-			"<u>>", 
-			"<ul>", 
-			"<s>", 
+			"Coding dictionary", 
+			"Style guide", 
+			"Main textbook", 
+			"Developer's reference", 
 		], 
-		answer: "li", 
+		answer: "Style guide", 
 	}, 
 
 	{ 
@@ -54,25 +54,25 @@ let questions = [
 	}, 
 
     { 
-		prompt: `CSS stands for ____ Style Sheets.`, 
+		prompt: `What can loops offer JavaScript code as a whole?`, 
 		options: [ 
-			"Curious", 
-			"Concave", 
-			"Cascading", 
-			"Concept", 
+			"Cleaner Syntax", 
+			"Cross-platform Support", 
+			"Adding Plug-ins", 
+			"Improved Performance", 
 		], 
-		answer: "Cascading", 
+		answer: "Improved Performance", 
 	}, 
 
     { 
-		prompt: `What is the CSS property that sets the size of the whitespace outside the borders of the content?`, 
+		prompt: `What is the format called that is used for storing and transporting data?`, 
 		options: [ 
-			"Spacer", 
-			"Block-level", 
-			"Margin", 
-			"Line", 
+			"HTML", 
+			"Syntax", 
+			"Font", 
+			"JSON", 
 		], 
-		answer: "Margin", 
+		answer: "JSON", 
 	}, 
 ]; 
 
