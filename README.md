@@ -37,7 +37,8 @@ THEN I can save my initials and my score
 
 [Repository](https://github.com/catxcoding/codequiz)
 
-![Screenshot](screenshot.png)
+![Screenshot 1](asset/images/screenshot1.png)
+![Screenshot 2](asset/images/screenshot2.png)
 
 
 
